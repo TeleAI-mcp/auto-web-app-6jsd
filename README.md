@@ -1,2 +1,3 @@
-# auto-web-app-6jsd
-Automated issue comment bot repository
+# Auto Web App 6Jsd
+
+Automated issue comment bot repository.
